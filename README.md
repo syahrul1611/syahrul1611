@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @syahrul1611
-- 👀 I’m interested in Computing
+- 👀 My Instagram https://www.instagram.com/syahrulramadhan123009/
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Webs
 - 📫 How to reach me ramadhan112009@gmail.com
 
 <!---
